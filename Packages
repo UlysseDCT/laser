@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: Testtheme
+Version: 1.0
+Section: Theme
+Maintainer: ulyssedctl
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/Testtheme.deb
+Size: 487
+MD5sum: 6334386bdf30b1de863b34a8a29a4cf2
+Description: This is a sample old theme. Firmware should be lower than 7.0
+Name: Testtheme
+Author: ulyssedctl
+Depiction: https://ulyssedctl.github.io/Ulysse/
